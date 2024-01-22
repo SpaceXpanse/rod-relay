@@ -1,4 +1,4 @@
-# strfry - a nostr relay
+# ROD blockchain relay - a nostr relay
 
 ![strfry logo](docs/strfry.svg)
 
